@@ -1,8 +1,4 @@
 #!/bin/sh
-#
-# Copyright (c) 2006 Endeca Technologies Inc. All rights reserved.
-# COMPANY CONFIDENTIAL
-#
 
 if grep "INFO: Applying index to dgraphs in restart group '1'." /usr/local/endeca/apps/tmi20130815/logs/test.out
 then

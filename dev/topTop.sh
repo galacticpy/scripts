@@ -1,8 +1,4 @@
 #!/bin/sh
-#
-# Copyright (c) 2006 Endeca Technologies Inc. All rights reserved.
-# COMPANY CONFIDENTIAL
-#
 
 if [ -f /usr/local/endeca/apps/tmi20130815/topCheck.txt]
 then
